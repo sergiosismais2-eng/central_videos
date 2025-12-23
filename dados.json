@@ -18,6 +18,12 @@
     {
       "id": "financeiro",
       "titulo": "FINANCEIRO",
+      "ordem": 3
+    }
+    
+    {
+      "id": "estoque",
+      "titulo": "ESTOQUE",
       "ordem": 2
     }
   ],
@@ -25,16 +31,24 @@
     {
       "id": "vid001",
       "moduloId": "cadastros",
-      "titulo": "Aula 01 - Cadastro de clientes",
-      "youtubeUrl": "https://www.youtube.com/watch?v=SEU_ID_AQUI",
+      "titulo": "Como Cadastrar o Primeiro Produto - Parte 1 de 3",
+      "youtubeUrl": "https://youtu.be/oZwmX1bsz4Q",
       "maisAssistido": true,
       "ordem": 1
     },
     {
       "id": "vid002",
-      "moduloId": "financeiro",
-      "titulo": "Noções de fluxo de caixa",
-      "youtubeUrl": "https://www.youtube.com/watch?v=SEU_ID_AQUI",
+      "moduloId": "cadastros",
+      "titulo": "Como Cadastrar o Seu Primeiro Cliente",
+      "youtubeUrl": "https://youtu.be/_h0Dl_ISmTY",
+      "maisAssistido": true,
+      "ordem": 1
+    },
+    {
+      "id": "vid003",
+      "moduloId": "estoque",
+      "titulo": "Monitor de XML - Como fazer a primeira consulta no monitor de XML",
+      "youtubeUrl": "https://youtu.be/IGmEm8yD56I",
       "maisAssistido": false,
       "ordem": 1
     }
