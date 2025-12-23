@@ -1,0 +1,42 @@
+{
+  "config": {
+    "nomeDoSite": "Central de Vídeos",
+    "logoUrl": "https://SEU-LINK-DA-LOGO-AQUI.png",
+    "cores": {
+      "primaria": "#2D6CDF",
+      "secundaria": "#FFB703",
+      "fundo": "#FFFFFF",
+      "texto": "#1F2937"
+    }
+  },
+  "modulos": [
+    {
+      "id": "cadastros",
+      "titulo": "CADASTROS",
+      "ordem": 1
+    },
+    {
+      "id": "financeiro",
+      "titulo": "FINANCEIRO",
+      "ordem": 2
+    }
+  ],
+  "videos": [
+    {
+      "id": "vid001",
+      "moduloId": "cadastros",
+      "titulo": "Aula 01 - Cadastro de clientes",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SEU_ID_AQUI",
+      "maisAssistido": true,
+      "ordem": 1
+    },
+    {
+      "id": "vid002",
+      "moduloId": "financeiro",
+      "titulo": "Noções de fluxo de caixa",
+      "youtubeUrl": "https://www.youtube.com/watch?v=SEU_ID_AQUI",
+      "maisAssistido": false,
+      "ordem": 1
+    }
+  ]
+}
