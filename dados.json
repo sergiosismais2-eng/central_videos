@@ -19,7 +19,7 @@
       "id": "financeiro",
       "titulo": "FINANCEIRO",
       "ordem": 3
-    },    
+    },
     {
       "id": "estoque",
       "titulo": "ESTOQUE",
@@ -50,6 +50,6 @@
       "youtubeUrl": "https://youtu.be/IGmEm8yD56I",
       "maisAssistido": false,
       "ordem": 1
-    },
+    }
   ]
 }
